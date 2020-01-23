@@ -1,0 +1,167 @@
+8 de enero 2020
+
+- Fin 25 de mayo.
+
+- 75% de asistencia de 480 horas (360 horas jeje).
+
+- Metodologia boot camp.
+
+- 4 entrevistas de media hora, una al mes, para mejorar el perfil profesional.
+
+- 3 entrevistas de trabajo.
+
+- Prueba de talento digital.  
+
+
+Actividad 1. Como hacer una llamada de un telefono publico
+
+- Encontrar un telefono publico operativo
+
+- Descolgar el telefono y verificar si este tiene tono, sino buscar otro
+
+- Conseguir monedas que sirvan para pagar el costo del telefono
+
+- Tener a dispoción el número a realizar la llamada
+
+- Por el orificio superior echar las monedas necesarias para hacer la llamada
+
+- Marcar al numero que se desea llamar
+
+- Esperar a que la persona conteste
+
+- Una vez que conteste presionar el boton requerido para que la otra persona te escuche
+
+- Hablar
+
+- En caso de requerir más tiempo de llamada ingresar más dinero
+
+- Colgar para dejar disponible el dispositivo
+
+
+Actividad 2. Como hacer un retiro del cajero automatico
+
+- Verificar si cuento con mi tarjeta con saldo previamente revisado si es posible
+
+- Definir modalidad de retiro (saldo o credito)
+
+- Definir la cantidad a retirar, teniendo en cuenta lo anterior
+
+- Buscar un cajero operativo
+
+- Realizar la fila si no requiere un tiempo muy grande de espera, sino buscar otro
+
+- Verificar que no este adulterado o con alguna anomalia, sino buscar otro
+
+- Una vez en el cajero, insertar la tarjeta en el orificio indicado al lado indicado
+
+- Ingresar clave de seguridad correctamente
+
+- Ver opciones que me ofrece el cajero
+
+- Verificar si tengo dinero disponible para el retiro (en caso de no tener la información en linea), en caso de que no, finalizo la operación y retiro la tarjeta
+
+- Ir a la opción para ingresar el monto a retirar
+
+- Verificar el monto que se ingreso
+
+- En caso de no entregar el monto, verificar tipos de billetes que tiene el cajero, sino tiene dinero, buscar otro cajero
+
+- Reingresar monto (redondeado)
+
+- Retirar y contar mi dinero
+
+- Guardar mi dinero
+
+- Retirar comprobante, si lo solicite
+
+- Botar o guardar comprobante
+
+- Ingresar opción que no quiero realizar otra operación
+
+- Esperar mi tarjeta
+
+- Retirar tarjeta y guardarla
+
+
+09 de enero 2020
+
+- Definir nombres de las variables lo más simple posible.
+
+- % me entrega el resto de una división 
+
+- 
+
+
+ Inicio 
+
+ Estatura = e
+
+ Leer(e)
+ 
+ Si e <= 1.60 entonces
+ Mostrar "Base" 
+ FinSi
+ Si 1.60 < e ^ e <= 1.70 entonces
+ Mostrar "Escolta"
+ FinSi
+ Si e > 1.70 ^ e < 1.75 entonces
+ Mostrar "Alero"
+ FinSi
+ Si e > 1.75 entonces 
+ Mostrar "Pivot"
+ FinSi
+    
+ Fin
+
+ 
+ Ejercicio 1.
+
+ Inicio
+
+ Notas_ex, x tipo Num
+ Sit_ac = caracter
+ Leer notas de los 4 examenes
+ Promediar notas con la misma ponderación
+ Si promedio nota > 55 entonces
+ Situación academica = aprueba con beca
+ FinSi
+
+ Si promedio de la nota >= 40 <= entonces
+ Sit_ac = aprueba
+ FinSi
+
+ Si prom nota < 40 entonces
+ Sit_ac = Reprueba
+ FinSi
+
+ Fin
+
+ 
+
+ Ejercicio 3
+
+ Inicio 
+
+ Cantidad, Total tipo Num
+
+ Leer cantidad
+
+ Si cantidad >= 1000 entonces
+ Total = Cantidad*85
+
+ Sino
+ Total = Cantidad*90
+ FinSi
+
+ Fin
+
+ 
+
+ Ejercicio 5 
+
+ Inicio
+ 
+ N_camiones, 
+
+ 
+
